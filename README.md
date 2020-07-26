@@ -1,42 +1,12 @@
-### 小符音乐-高仿网易云音乐
+### 刘书坤-高仿网易云音乐
 
  **前言**
 
 肝代码不易，本项目还是比较能拿的出手的，若是在网上发表请标明出处，另外跪求Star。另外本项目仅用于学习。 
-
-Gitee地址：https://gitee.com/fudaosheng/vue-fds_music
-
- **特别感谢** 
-
-@北京-张嘉利 给出的解决“点击相似歌手,切换到对应歌手详情页，但是歌手基础信息不变的问题”。
-
  **项目简介** 
-
-本项目后端接口是Github大神Binaryify的开源项目（项目地址：[https://github.com/Binaryify/NeteaseCloudMusicApi](http://)），接口文档直接在百度搜索“网易云音乐API”作者是Binaryify。
-
 本项目前端均是本人独立自主开发，所用技术栈：Vue全家桶+better-scroll+axios。
 
-项目演示：（b站)[https://www.bilibili.com/video/BV1ui4y137Xr/](http://)随手点个赞吧 :tw-1f339: 
-
 下面也有项目效果图
-
- **项目准备：** 
-
-后端API官方文档：[https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi
-](http://)
-
- **API安装步骤：** 
-
-1. git clone https://github.com/Binaryify/NeteaseCloudMusicApi.git
-
-(不会使用git的小伙伴可以直接去接口仓库下载哦，接口仓库地址：[https://github.com/Binaryify/NeteaseCloudMusicApi](http://))
-
-2.$ npm install
-
-3。cd api文件夹
-
-4.node app.js
-
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0713/093904_5acf461a_7602838.png "屏幕截图.png")
 
 以上是运行成功的效果
